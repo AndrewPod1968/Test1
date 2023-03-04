@@ -1,0 +1,1 @@
+/usr/bin/flatpak run --device=all org.blender.Blender
